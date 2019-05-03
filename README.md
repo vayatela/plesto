@@ -1,7 +1,7 @@
 
 # accesoriesonlist
 
-Prestashop module. New hook must ber added in product-list.tpl
+Prestashop module. New hook must be added in product-list.tpl
 
 
 ### Prerequisites
